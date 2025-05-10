@@ -1,0 +1,7 @@
+*.csv
+__pycache__/
+*.log
+*.ipynb_checkpoints/
+.env
+*.csv
+*.csv
